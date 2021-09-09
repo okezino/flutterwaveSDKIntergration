@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PaymentWithFlutterwave</string>
+    <string name="pay">Pay</string>
+    <string name="flutterwave_payment">Flutterwave Payment</string>
+</resources>
